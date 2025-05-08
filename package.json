@@ -8,18 +8,6 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jforni/backendw7productos.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/jforni/backendw7productos/issues"
-  },
-  "homepage": "https://github.com/jforni/backendw7productos#readme",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
